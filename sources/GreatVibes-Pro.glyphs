@@ -1,5 +1,5 @@
 {
-.appVersion = "1356";
+.appVersion = "1342";
 DisplayStrings = (
 "Çç¸¸¸/cedillacomb/Scedilla/scedilla",
 "L/Ldot",
@@ -15,8 +15,20 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Adieresis Aring Cced
 name = Uppercase;
 }
 );
-copyright = "Copyright © 2010 by __Designer__. All rights reserved.";
+copyright = "Copyright 2015 The Great Vibes Pro Project Authors (https://github.com/googlefonts/great-vibes)";
 customParameters = (
+{
+name = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = GOOG;
+},
 {
 name = panose;
 value = (
@@ -41,12 +53,24 @@ value = (
 {
 name = fsType;
 value = (
-2
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 },
 {
 name = blueScale;
 value = 0.03295;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 },
 {
 name = glyphOrder;
@@ -55,6 +79,7 @@ value = (
 .null,
 CR,
 space,
+nbspace,
 threequarters,
 brokenbar,
 minus,
@@ -230,7 +255,6 @@ Delta,
 guillemotleft,
 guillemotright,
 ellipsis,
-nbspace,
 Agrave,
 Atilde,
 Otilde,
@@ -535,9 +559,11 @@ fi
 );
 }
 );
-date = "2010-04-08 02:05:37 +0000";
+date = "2021-05-28 02:57:42 +0000";
+designer = "Robert E. Leuschke";
+designerURL = www.typesetit.com;
 disablesNiceNames = 1;
-familyName = GreatVibesPro;
+familyName = "Great Vibes";
 featurePrefixes = (
 {
 automatic = 1;
@@ -727,6 +753,18 @@ width = 260;
 );
 note = space;
 unicode = 0020;
+},
+{
+glyphname = nbspace;
+lastChange = "2021-04-19 01:04:02 +0000";
+layers = (
+{
+layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
+width = 260;
+}
+);
+note = nbspace;
+unicode = 00A0;
 },
 {
 glyphname = threequarters;
@@ -15533,18 +15571,6 @@ width = 540;
 );
 note = ellipsis;
 unicode = 2026;
-},
-{
-glyphname = nbspace;
-lastChange = "2021-04-19 01:04:02 +0000";
-layers = (
-{
-layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
-width = 260;
-}
-);
-note = nbspace;
-unicode = 00A0;
 },
 {
 glyphname = Agrave;
@@ -42644,12 +42670,7 @@ width = 600;
 );
 instances = (
 {
-customParameters = (
-{
-name = familyName;
-value = GreatVibesPro;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "61E7180A-0B32-4047-B910-001D8BB62225" = 1;
 };
@@ -42714,8 +42735,9 @@ four.onum = -33.5;
 };
 };
 };
-manufacturer = TypeSETit;
+manufacturer = "Robert E. Leuschke";
+manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
