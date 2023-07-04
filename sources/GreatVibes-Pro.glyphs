@@ -12,7 +12,10 @@ DisplayStrings = (
 "nn/Placeholder no/Placeholder oo\012/zero.inferior/one.inferior/two.inferior/three.inferior/four.inferior/five.inferior/six.inferior/seven.inferior/eight.inferior/nine.inferior \012/zero.superior ¹²³/foursuperior/five.superior/six.superior/seven.superior/eight.superior/nine.superior",
 "nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.,:;/ellipsis !¡?¿nn?·/bullet *#///backslash l/periodcentered.loclCAT l/space ll/space (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'1/leftanglebracket-math 2/rightanglebracket-math @/space",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \012nn/Placeholder no/Placeholder oo\0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120124634567on89/nbspace \012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/two.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo/space",
-"A/Placeholder/space B/Placeholder/space C/Placeholder/space D/Placeholder/space E/Placeholder/space F/Placeholder/space G/Placeholder/space H/Placeholder/space I/Placeholder/space J/Placeholder/space K/Placeholder/space L/Placeholder/space M/Placeholder/space N/Placeholder/space O/Placeholder/space P/Placeholder/space Q/Placeholder/space R/Placeholder/space S/Placeholder/space T/Placeholder/space U/Placeholder/space V/Placeholder/space X/Placeholder/space Y/Placeholder/space Z/Placeholder \012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space Wrcnder/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space Lyon/space T/ocircumflexacute t\012\012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ngn"
+"A/Placeholder/space B/Placeholder/space C/Placeholder/space D/Placeholder/space E/Placeholder/space F/Placeholder/space G/Placeholder/space H/Placeholder/space I/Placeholder/space J/Placeholder/space K/Placeholder/space L/Placeholder/space M/Placeholder/space N/Placeholder/space O/Placeholder/space P/Placeholder/space Q/Placeholder/space R/Placeholder/space S/Placeholder/space T/Placeholder/space U/Placeholder/space V/Placeholder/space X/Placeholder/space Y/Placeholder/space Z/Placeholder \012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space Wrcnder/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space Lyon/space T/ocircumflexacute t\012\012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ngn",
+"/brevecomb/brevecomb_acutecomb/abreveacute/brevecomb_gravecomb/abrevegrave/brevecomb_hookabovecomb/abrevehookabove/brevecomb_tildecomb/abrevetilde/circumflexcomb_acutecomb/circumflexcomb/circumflexcomb_gravecomb/acircumflexgrave/ecircumflexgrave/ocircumflexgrave/circumflexcomb_hookabovecomb/acircumflexhookabove/ecircumflexhookabove/ocircumflexhookabove/circumflexcomb_tildecomb/acircumflextilde/ecircumflextilde/ocircumflextilde/rbelowcomb/dieresiscomb/dotaccentcomb/gravecomb/gravecomb_macroncomb/acutecomb/acutecomb_macroncomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/macroncomb_gravecomb/macroncomb_acutecomb/hookabovecomb/verticallineabovecomb/dblgravecomb/candraBinducomb/breveinvertedcomb/commaturnedabovecomb/commaabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/ringbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/verticallinebelowcomb/circumflexbelowcomb/brevebelowcomb/breveinvertedbelowcomb/tildebelowcomb/macronbelowcomb/lowlinecomb/tildeoverlaycomb/strokeshortcomb/dotaboverightcomb/acutemacroncomb/gravemacroncomb/macronacutecomb/macrongravecomb/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case Â/Acircumflexdotbelow/Ccircumflex Ê/Ecircumflexdotbelow/Gcircumflex/Hcircumflex Î/Jcircumflex Ô/Ocircumflexdotbelow/Scircumflex Û/Wcircumflex/Ycircumflex/Zcircumflex/hcircumflex/circumflexcomb_gravecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_tildecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_gravecomb.case/Acircumflexgrave/Ecircumflexgrave/Ocircumflexgrave/circumflexcomb_acutecomb.case/circumflexcomb_tildecomb.case/circumflexcomb_hookabovecomb.case/caroncomb.case/brevecomb.case/brevecomb_gravecomb.case/brevecomb_acutecomb.case/brevecomb_tildecomb.case/brevecomb_hookabovecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/commaturnedabovecomb.case/tildebelowcomb.case ¨/dotaccent `´/hungarumlaut/circumflex/secondtonechinese/caron/fourthtonechinese/breve/ring/tilde ¯¸/ogonek/apostrophemod/commaturnedmod/doubleprimemod/glottalstopmod/primemod/ringhalfleft/ringhalfright",
+"/brevecomb_acutecomb/abreveacute",
+"/brevecomb_gravecomb/abrevegrave"
 );
 classes = (
 {
@@ -1002,7 +1005,7 @@ unicode = 1EAC;
 {
 color = 9;
 glyphname = Acircumflexgrave;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:50:04 +0000";
 layers = (
 {
 background = {
@@ -5758,7 +5761,7 @@ unicode = 1EC6;
 {
 color = 9;
 glyphname = Ecircumflexgrave;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:50:04 +0000";
 layers = (
 {
 background = {
@@ -15431,7 +15434,7 @@ unicode = 1ED8;
 {
 color = 9;
 glyphname = Ocircumflexgrave;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:50:04 +0000";
 layers = (
 {
 background = {
@@ -36016,7 +36019,7 @@ unicode = 0103;
 {
 color = 9;
 glyphname = abreveacute;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:46:49 +0000";
 layers = (
 {
 background = {
@@ -36088,7 +36091,7 @@ unicode = 1EB7;
 {
 color = 9;
 glyphname = abrevegrave;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:47:01 +0000";
 layers = (
 {
 background = {
@@ -36120,7 +36123,7 @@ unicode = 1EB1;
 {
 color = 9;
 glyphname = abrevehookabove;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:47:13 +0000";
 layers = (
 {
 background = {
@@ -36152,7 +36155,7 @@ unicode = 1EB3;
 {
 color = 9;
 glyphname = abrevetilde;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:47:24 +0000";
 layers = (
 {
 background = {
@@ -36237,10 +36240,20 @@ unicode = 00E2;
 {
 color = 9;
 glyphname = acircumflexacute;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:46:31 +0000";
 layers = (
 {
 background = {
+anchors = (
+{
+name = top;
+position = "{347, 493}";
+},
+{
+name = topviet;
+position = "{433, 411}";
+}
+);
 components = (
 {
 name = a;
@@ -36248,6 +36261,60 @@ name = a;
 {
 name = circumflexcomb_acutecomb;
 transform = "{1, 0, 0, 1, 97, 20}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"178 421 OFFCURVE",
+"182 419 OFFCURVE",
+"189 419 CURVE SMOOTH",
+"195 419 OFFCURVE",
+"203 420 OFFCURVE",
+"208 424 CURVE",
+"221 432 OFFCURVE",
+"310 466 OFFCURVE",
+"339 483 CURVE",
+"386 424 LINE SMOOTH",
+"388 421 OFFCURVE",
+"395 418 OFFCURVE",
+"400 418 CURVE SMOOTH",
+"404 418 OFFCURVE",
+"407 419 OFFCURVE",
+"407 422 CURVE SMOOTH",
+"407 423 OFFCURVE",
+"406 423 OFFCURVE",
+"406 424 CURVE",
+"370 531 LINE",
+"370 533 OFFCURVE",
+"365 533 OFFCURVE",
+"360 533 CURVE SMOOTH",
+"348 533 OFFCURVE",
+"332 531 OFFCURVE",
+"332 531 CURVE",
+"182 424 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"277 558 OFFCURVE",
+"386 618 OFFCURVE",
+"406 628 CURVE SMOOTH",
+"423 636 OFFCURVE",
+"443 650 OFFCURVE",
+"443 672 CURVE SMOOTH",
+"443 684 OFFCURVE",
+"435 693 OFFCURVE",
+"423 693 CURVE SMOOTH",
+"404 693 OFFCURVE",
+"258 574 OFFCURVE",
+"258 567 CURVE SMOOTH",
+"258 561 OFFCURVE",
+"262 558 OFFCURVE",
+"268 558 CURVE SMOOTH"
+);
 }
 );
 };
@@ -36309,7 +36376,7 @@ unicode = 1EAD;
 {
 color = 9;
 glyphname = acircumflexgrave;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:47:59 +0000";
 layers = (
 {
 background = {
@@ -36341,7 +36408,7 @@ unicode = 1EA7;
 {
 color = 9;
 glyphname = acircumflexhookabove;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:48:20 +0000";
 layers = (
 {
 background = {
@@ -39313,7 +39380,7 @@ unicode = 00EA;
 {
 color = 9;
 glyphname = ecircumflexacute;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:46:31 +0000";
 layers = (
 {
 background = {
@@ -39438,7 +39505,7 @@ unicode = 1EC1;
 {
 color = 9;
 glyphname = ecircumflexhookabove;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:48:20 +0000";
 layers = (
 {
 background = {
@@ -46407,7 +46474,7 @@ unicode = 00F4;
 {
 color = 9;
 glyphname = ocircumflexacute;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:46:31 +0000";
 layers = (
 {
 background = {
@@ -46511,7 +46578,7 @@ unicode = 1ED3;
 {
 color = 9;
 glyphname = ocircumflexhookabove;
-lastChange = "2022-11-18 22:01:03 +0000";
+lastChange = "2023-07-04 22:48:20 +0000";
 layers = (
 {
 background = {
@@ -104393,72 +104460,106 @@ unicode = 25CA;
 {
 color = 9;
 glyphname = brevecomb_acutecomb;
-lastChange = "2023-07-04 21:08:57 +0000";
+lastChange = "2023-07-04 22:46:49 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{78, 345}";
+},
+{
+name = top;
+position = "{129, 656}";
+}
+);
 background = {
 components = (
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 10, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 58, 129}";
+transform = "{1, 0, 0, 1, 68, 129}";
 }
 );
 };
 components = (
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 10, 0}";
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 53, 102}";
+transform = "{1, 0, 0, 1, 63, 102}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
-width = 366;
+width = 258;
 }
 );
 },
 {
 color = 9;
 glyphname = brevecomb_gravecomb;
-lastChange = "2023-07-04 21:08:57 +0000";
+lastChange = "2023-07-04 22:47:01 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{78, 345}";
+},
+{
+name = top;
+position = "{145, 656}";
+}
+);
 background = {
 components = (
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 48, 0}";
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 51, 129}";
+transform = "{1, 0, 0, 1, 99, 129}";
 }
 );
 };
 components = (
 {
 name = brevecomb;
+transform = "{1, 0, 0, 1, 48, 0}";
 },
 {
 anchor = top;
 name = gravecomb;
-transform = "{1, 0, 0, 1, -38, 102}";
+transform = "{1, 0, 0, 1, 10, 102}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
-width = 366;
+width = 290;
 }
 );
 },
 {
 color = 9;
 glyphname = brevecomb_hookabovecomb;
-lastChange = "2023-07-04 21:08:57 +0000";
+lastChange = "2023-07-04 22:47:13 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{78, 345}";
+},
+{
+name = top;
+position = "{116, 676}";
+}
+);
 background = {
 anchors = (
 {
@@ -104559,9 +104660,19 @@ width = 232;
 {
 color = 9;
 glyphname = brevecomb_tildecomb;
-lastChange = "2023-07-04 21:02:42 +0000";
+lastChange = "2023-07-04 22:47:24 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{78, 345}";
+},
+{
+name = top;
+position = "{130, 620}";
+}
+);
 background = {
 paths = (
 {
@@ -104651,9 +104762,19 @@ width = 232;
 {
 color = 9;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2023-07-04 21:01:46 +0000";
+lastChange = "2023-07-04 22:46:31 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{106, 345}";
+},
+{
+name = top;
+position = "{132, 693}";
+}
+);
 background = {
 paths = (
 {
@@ -104728,9 +104849,15 @@ width = 227;
 {
 color = 9;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2023-07-04 21:01:25 +0000";
+lastChange = "2023-07-04 22:47:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{106, 345}";
+}
+);
 background = {
 anchors = (
 {
@@ -104819,9 +104946,15 @@ width = 227;
 {
 color = 9;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2023-07-04 19:23:41 +0000";
+lastChange = "2023-07-04 22:48:19 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{106, 345}";
+}
+);
 background = {
 components = (
 {
@@ -104852,9 +104985,15 @@ width = 359;
 {
 color = 9;
 glyphname = circumflexcomb_tildecomb;
-lastChange = "2023-07-04 20:54:50 +0000";
+lastChange = "2023-07-04 22:48:30 +0000";
 layers = (
 {
+anchors = (
+{
+name = _top;
+position = "{106, 345}";
+}
+);
 background = {
 components = (
 {
@@ -107753,7 +107892,7 @@ width = 191;
 },
 {
 glyphname = circumflexcomb.case;
-lastChange = "2021-06-07 21:26:00 +0000";
+lastChange = "2023-07-04 22:50:03 +0000";
 layers = (
 {
 anchors = (
@@ -107861,7 +108000,7 @@ width = 252;
 },
 {
 glyphname = circumflexcomb_gravecomb.case;
-lastChange = "2021-06-09 23:59:26 +0000";
+lastChange = "2023-07-04 22:49:55 +0000";
 layers = (
 {
 background = {
