@@ -16,7 +16,6 @@ DisplayStrings = (
 "uú/ubar/ubreve/ucaron û/ucircumflexbelow/udblgrave ü/udieresisacute/udieresisbelow/udieresiscaron/udieresisgrave/udieresismacron/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/umacrondieresis/uogonek/upsilon-latin/ringcomb å/aringacute/uring/ringbelowcomb/ring/uring/utilde/utildeacute/utildebelow",
 "/o.ss01",
 "/clickdental",
-"/Hbar/Lbar/Ldoublebar/space/Tbar/Ubar/hbar/lbar/ldoublebar/obarred/tbar/ubar \012/bstroke/gstroke/istroke/jstroke/kstroke/lambdastroke/pstroke/rstroke/sobliquestroke/ystroke/gstroke.ss01",
 "/bstroke/gstroke/istroke/jstroke/kstroke/lambdastroke/pstroke/rstroke/sobliquestroke/ystroke/gstroke.ss01"
 );
 classes = (
@@ -138456,5 +138455,5 @@ oV = "62";
 };
 };
 versionMajor = 1;
-versionMinor = 13;
+versionMinor = 14;
 }
