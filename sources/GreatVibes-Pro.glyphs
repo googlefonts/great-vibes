@@ -25,7 +25,7 @@ DisplayStrings = (
 "H/Hbrevebelow/Hcaron/Hcedilla/Hcircumflex/Hdieresis/Hdotaccent/Hdotbelow/space/Heng",
 "K/Kacute",
 "K/Kacute",
-"/Rtail",
+"/Rtail/space/space ./space ./space",
 "/dtail/space/space/space/space ./space/space",
 "/o.ss01-cy",
 "/verticallineabovecomb",
@@ -162569,7 +162569,7 @@ zstroke.ss03 = None;
 "6" = 0;
 "7" = 0;
 "8" = 0;
-"9" = 1;
+"9" = 0;
 };
 "com.hugojourdan.ColorFlow-selectedMaster" = {
 axesValues = (
@@ -162704,19 +162704,19 @@ pos = 0;
 );
 stems = (
 {
-id = "80743430-E3C9-4C77-9C0F-DA7F69D9FB8E";
+id = "8C6F1FD3-676C-4727-A84E-6B6598E82DE0";
 width = 25;
 },
 {
-id = "00211D77-96F6-4DD2-9372-A7A19BF978DC";
+id = "71667C0E-898D-4515-9275-7D357412FD18";
 width = 20;
 },
 {
-id = "4C76EA4F-6E69-4274-8FA0-6A9C22FCC152";
+id = "E4C63D6C-1A63-4D8A-8B6C-B65244396AC1";
 width = 20;
 },
 {
-id = "E98870E0-9BC0-44B3-A941-C3A956E24737";
+id = "DEA38098-901F-4560-BDF6-96B266911493";
 width = 62;
 }
 );
