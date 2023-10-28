@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 DisplayStrings = (
 "oóo/obarred/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccent/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/omacronacute/omacrongrave/omega-latin/oogonek o/oogonekmacron/oopen ø/oslashacute õ/otildeacute/otildedieresis/otildemacron",
 "t/tbar/tcaron/tcedilla t/tcircumflexbelow/tcommaaccent/tdiagonalstroke/tdotaccent/tdotbelow/thook t/tmacronbelow/tretroflexhook f",
@@ -13,7 +13,12 @@ DisplayStrings = (
 "/strokeshortcomb/strokelongcomb/strokemedcomb/strokevertcomb/strokevertlongcomb A/Astroke/Bstroke/Cstroke/Estroke/Gstroke/Istroke/Jstroke/Kstroke/Pstroke/strokelongcomb R/Rstroke/Sobliquestroke/Tdiagonalstroke/Ystroke/Zstroke \012/Tdiagonalstroke.alt/space/Astroke.ss01/Kstroke.ss01/Rstroke.ss01/Tdiagonalstroke.ss01/Z.ss01/space/Zacute.ss01/space/Zcaron.ss01/space/Zdotaccent.ss01/space/Z.stroke.ss01/astroke/bstroke/cstroke/estroke/gstroke/istroke/jstroke/kstroke/space \012/lambdastroke/space/pstroke/rstroke/sobliquestroke/tdiagonalstroke/ystroke/zstroke/gstroke.ss01/z.ss01/zacute.ss01/zcaron.ss01/zdotaccent.ss01/zstroke.ss01/zstroke.ss02/z.ss03/zstroke.ss03/space/Hbar/Lbar FT/Tbar r/Ubar U/Tbar.alt/Lbar.ss01/hbar/lbar/obarred/tbar/ubar/Ybar.ss01 ¦/Ldoublebar/Ldoublebar.ss01/ldoublebar \012",
 "O/space y/oopen r/oopen/space b/eopen/eopen ,/space mobile/space b/eopen/space lakoori/space dugum/oopen g/oopen w/space f/eopen ,/space bangebaw./space Ni/space si/space tômô/space na,/space u'b'afara/space bôla/space ka/space to/space a/space kolo/space ye/space barsa/space a/space kolo/space de/space na/space fa/space ka/space bon./space/Nhookleft/oopen.ss01 nin/space taamasi/nhookleft/eopen/space f/oopen l/oopen w/space ye/space farigan,/space nunjib/oopen ,/space/nhookleft/eopen/space bilennen/space don/space ani/space a/space b/eopen/space dimi,/space ani/space s/oopen g/oopen s/oopen g/oopen ./space Togodala/space musow/space b/eopen/space nak/oopen baara/space k/eopen/space kos/eopen b/eopen/space walasa/space k./quoteright u/space ka/space tile/space musakaw/space s/oopen r/oopen ./space A/space baara/space f/oopen l/oopen/space de/space ye/space ka/space m/oopen g/oopen w/space lafaamu/space munna/space delinako/space ninnu/space dabilali/space nafa/space ka/space bon./space U/space hak/eopen/space tata/space b/eopen/eopen/space ka/space kan/space ka/space ta/space don/space o/space don./space S/eopen r/eopen kili/space don,/space min/space b/eopen/space kamarili/space k/eopen/space ar/oopen ndisimen/space nataw/space la:/space Sikorolen,/space Kangari,/space Gelenlenk/oopen r/oopen ,/space Y/oopen r/oopen bugula/space ani/space Kalanna./space/Oopen rim/oopen ni/space fana/space b/eopen/space bangenugu/space dawolo/space namaya/space kos/eopen b/eopen ,/space min/space b/eopen/space lawaji/space bali/space ka/space don/space bangenugu/space k/oopen n/oopen ./space A/space b/quoteright a/space To/space kuma/space t/oopen/space b/eopen/space Seereya/space ka/space cy/eopen nlandiya/space ka/space Barika./space Z/oopen nye/space ka/space di/space fali/space ye/space kos/eopen b/eopen ./space Y/oopen r/oopen w/space b/eopen/eopen/space ni/space a/space j/eopen g/eopen/space t/oopen g/oopen/space don/space nka/space u/space b/eopen/eopen/space b/eopen/space wele/space ko/space/quotedblleft sosoj/eopen g/eopen/quotedblright ./space S/oopen g/oopen s/oopen g/oopen ninj/eopen/space b/eopen/space muso/space minnu/space na,/space kanjabana,/space b/eopen/space se/space ka/space olu/space denw/space min/eopen ,/space s/oopen g/oopen s/oopen g/oopen ninj/eopen/space b/eopen/space min/space senk/oopen r/oopen ./space Yen,/space a/space donna/space fanga/space ka/space f/oopen likulu/space min/space t/oopen g/oopen/space Bamak/oopen/space Super/space Rail/space Band./space Kanjabana/space s/oopen g/oopen s/oopen g/oopen ninj/eopen/space b/eopen/space k/oopen k/oopen/space d/oopen/oopen ni/space d/oopen/oopen ni/space tile/space dama/space d/oopen w/space walima/space d/oopen g/oopen kun/space dama/space d/oopen w/space k/oopen n/oopen ./space O/space kuma/space k/eopen ra/space c/eopen/space d/oopen/space/nhookleft/eopen na/space min/space tun/space ye/space weeleweeleda/space in/space m/eopen ,/space ka/space misitigi/space ka/space telef/oopen ni/space nimoro/space ta./space Woro/space/nhookleft ugu/nhookleft ugulen/space man/space ca/space yan./space Woron/space son/space san/space o/space san/space walisa/space ji/space ko/space ka/space nôgôya/space cogomi./space N/quoteright i/space y/quoteright a/space laj/eopen ,/space situlu/space b/eopen/space k/eopen/space f/eopen n/space o/space f/eopen n/space ye/space du/space k/oopen n/oopen ,/space o/space b/eopen/eopen/space ye/space warib/oopen/space musaka/space ye./space O/space s/oopen g/oopen s/oopen g/oopen ninj/eopen/space ye/space kannas/oopen g/oopen s/oopen g/oopen nij/eopen ,/space k/oopen n/oopen baralas/oopen g/oopen s/oopen g/oopen nij/eopen/space (aw/space ye/space ja/space laj/eopen/space gafe/space/nhookleft/eopen/space Bana/space minnu/space b/oopen len/space don/space olu/space danfaraw/space d/oopen nni/space g/eopen l/eopen yaw),/space wolola/space s/oopen g/oopen s/oopen g/oopen nij/eopen ,/space ani/space kolotugudas/oopen g/oopen s/oopen g/oopen nij/eopen/space (i/space n/quoteright a/space f/oopen/space kunbere)./space Worok/oopen r/oopen g/eopen n/eopen g/eopen n/eopen w/space mana/space n/eopen/space ta,/space ka/space k/eopen n/eopen ya/space ka/space tila/space funu/space tuguni./space Wikipeja/space ye/space d/oopen nnisoba/space d/oopen/space ye/space/Eopen nt/eopen rin/eopen ti/space sira/space f/eopen/space di/nhookleft/eopen/space d/oopen nnin/space caman/space/nhookleft/eopen f/oopen len/space b/eopen/space min/space kan./space Sigi/space Dô/space tun/space bè/space ka/space maden/space dugu/space môgôw/space ni/space siri/space ka/space da/space u/space kun/space n'o/space ye/space Do/space ye./space Walima/space u/space b/eopen/space se/space ka/space/nhookleft/eopen siw/space bin/space/nhookleft/eopen/space k/oopen n/oopen ,/space ka/space joli/space bila/space/nhookleft/eopen j/eopen/space la,/space min/space b/eopen/space laban/space fiyent/oopen ya/space ma./space U/space b/eopen/space banamis/eopen nni/space caman/space furak/eopen ,/space i/space n/quoteright a/space f/oopen :/space wololabanaw,/space kololabanaw,/space furulabanaw/space walima/space/nhookleft/eopen g/eopen n/eopen k/eopen siralabanaw/space (/nhookleft/eopen g/eopen n/eopen barani)./space T/oopen n/oopen g/oopen/space d/oopen w/space b/eopen/space don/space joli/space la/space ka/space/nhookleft/eopen g/eopen n/eopen bilenni/space bila/space m/oopen g/oopen/space la./space Tinmin/eopen muso/space walima/space k/eopen n/eopen ya/space tigilam/oopen g/oopen/space minnu/space b/eopen/space musow/space lajigin,/space jolilaj/oopen fura/space caman/space ka/space kan/space ka/space s/oopen r/oopen/space olu/space bolok/oopen r/oopen ./space S/oopen g/oopen ma,/space daraka/space f/eopen g/eopen man/space dunnen/space k/oopen f/eopen ,/space aw/space b/eopen/space nikulozamidi/space ta./space N/quoteright i/space mago/space b/eopen/space ka/space d/oopen nnin/space min/space/nhookleft/eopen/nhookleft ini,/space i/space b/quoteright o/space s/eopen b/eopen n/space a/space k/oopen n/oopen ,/space k/quoteright o/space/nhookleft ininkali/space k/quoteright a/space la./space Sink/oopen r/oopen k/eopen r/eopen dimi/space b/eopen/space m/oopen g/oopen/space min/eopen/space ninakilidegunbana/space d/oopen w/space senf/eopen/space walima/space u/space k/oopen f/eopen ,/space i/space n/quoteright a/space f/oopen/space/nhookleft/oopen ni,/space keteketeni,/space muras/oopen g/oopen s/oopen g/oopen ,/space disidimi,/space sisan,/space walima/space banajugu/space w/eopen r/eopen/space minnu/space b/eopen/space m/oopen g/oopen/space laada,/space k/eopen r/eopen nk/eopen r/eopen nnenya/space la/space denfitiniw/space ni/space m/oopen g/oopen k/oopen r/oopen baw./space Silam/eopen ya/space tarikud/oopen nna,/space Al-Sa/quoteright df/space b/quoteright a/space k/oopen n/oopen ta/space f/oopen/space ak/quoteright a/space donni/space kan/space Tumutu/space :/space «Soni/space Ali/space donna/space Tumutu,/space a/space ye/space t/nhookleft/oopen ni/space belebelew/space k/eopen ,/space ka/space dugu/space jeni/space ka/space flenkloci,/space ka/space m/oopen g/oopen w/space caman/space nimat/oopen r/oopen ./space P/oopen s/oopen nni/space b/eopen/space f/eopen n/space o/space f/eopen n/space na./space San/space 1943,/space a/space ye/space kunnafoni/space s/eopen b/eopen/space sintin/space \"Kenedugu/space/nhookleft/eopen \"(l'oeil/space de/space Kénédougou)/space min/space b/eopen/space marabaa/space lagoshi./space San/space 2004,/space Ture/space k/eopen ra/space/Nhookleft afunke/space m/eopen ri/space ye./space O/space/nhookleft/oopen/space min/space b/eopen/space filen/space k/oopen n/oopen ,/space o/space de/space b/eopen/space taa/space k/eopen/space ka/space naf/eopen nw,/space sukaro/space walima/space tulu/space san./space/Oopen w/oopen ,/space an/space b/eopen/space se/space ka/space g/eopen l/eopen ya/space damad/oopen/space f/oopen/space baara/space in/space na/space bi./space Nka,/space fura/space k/eopen r/eopen nk/eopen r/eopen nnen/space t/eopen/space yen/space ko/space bana/space d/oopen/space t/eopen/space se/space ka/space furak/eopen/space min/space k/oopen ./space Ni/space nônôkènè/space bila,a/space bè/space sunôgo/space ka/space kè/space nônô/space kumu/space ye./space Nin/space fura/space ye/space silifamet/oopen kizaz/oopen li/space ni/space sumayafura/space faralen/space/nhookleft/oopen g/oopen n/space kan/space (sulfaméthoxazole/space avec/space triméthoprime),/space d/oopen w/space b/quoteright a/space w/eopen l/eopen/space ko/space TMP-SMX./space Ni/space a/space y/oopen r/oopen/space b/eopen/space aw/space/eng/eopen/nhookleft/eopen ,/space a/space b/eopen/space aw\012jenijeni/space walima/space a/space ji/space b/eopen/space b/oopen ,/space aw/space b/eopen/space a/space saniya,/space aw/space b/eopen/space finimugu/space d/oopen/space su/space jisuma/space na,/space ka/space o/space da/space a/space la./space Ni/space aw/space s/oopen mina/space sumayabana/space na/space walima/space farigan/space taa/space ka/space segin/space na,/space ni/space a/space ka/space n/oopen g/oopen/space aw/space ma,/space aw/space b/eopen/space taa/space jolis/eopen g/eopen s/eopen g/eopen/space k/eopen/space d/oopen g/oopen t/oopen r/oopen so/space la./space Ni/space aw/space b/eopen/space sigida/space la,/space sumayabana/space jolis/eopen g/eopen s/eopen g/eopen/space t/eopen/space k/eopen/space y/oopen r/oopen/space min,/space farigan/space g/eopen l/eopen n/space f/eopen n/space o/space f/eopen n/space mana/space t/eopen m/eopen/space aw/space d/oopen ny/oopen r/oopen/space kan,/space aw/space b/eopen/space olu/space furak/eopen/space i/space n/quoteright a/space f/oopen/space sumayabana./space K/oopen n/oopen ti/nhookleft/eopen/space f/eopen/eopen r/eopen/space minnu/space b/eopen na/space ni/space basib/oopen n/space juguman/space ye,/space bana/space walima/space saya/space y/eopen r/eopen ,/space olu/space de/space ye:/space ka\012kalani/space walima/space ka/space f/eopen n/space kolog/eopen l/eopen nman/space w/eopen r/eopen w/space don/space denso/space k/oopen n/oopen ,/space ka/space den/space diyagoya/space lab/oopen ,/space ka/space tubabufuraw/space ta/space walima/space farafinfuraw./space K/oopen n/oopen ti/nhookleft/eopen/space b/eopen/space muso/space caman/space s/oopen r/oopen/space ka/space/nhookleft/eopen n/eopen maya/space k/oopen n/oopen/space k/quoteright a/space s/oopen r/oopen/space u/space m/quoteright a/space jatemin/eopen k/eopen/quoteright o/space don.",
 "H/space/Shcha-cy/space/Sha-cy/heng ra/ie-cy.alt r/ya-cy r/em-cy/ya-cy/tse-cy/zhe.ss01-cy r/em_el-cy r/be-cy",
-"/oopen/oopen.ss01/oopen.ss02/space r/eturned a/eturned.ss01 ar/space/upsilon-latin"
+"/oopen/oopen.ss01/oopen.ss02/space r/eturned a/eturned.ss01 ar/space/upsilon-latin",
+"B/strokemedcomb/Bstroke/strokeshortcomb DÐ/Dcroat/Gstroke/Hbar/Istroke/Jstroke K/Kstroke/Lbar/Ldoublebar/Lmiddletilde/Ocenteredtilde/estroke Ø/Pstroke/Rstroke T/Sobliquestroke/Tbar/Ubar/Ystroke/Tbar.alt/Kstroke.ss01/Lbar.ss01/Ldoublebar.ss01",
+"ø/astroke/bstroke/cstroke/estroke -/dcroat/gstroke/gstroke/istroke/jstroke/kstroke/lambdastroke/pstroke/rstroke/sobliquestroke/tdiagonalstroke/ystroke/zstroke/gstroke.ss01/z.ss01 Ø",
+"IJ/space",
+"/abrevedotbelow/acircumflexdotbelow/adotaccent/adotbelow i/adotmacron/bdotaccent/bdotbelow/cdotaccent/ddotaccent/ddotbelow/ecircumflexdotbelow/edotaccent/edotbelow",
+"/clickdental/clicklateral"
 );
 classes = (
 {
@@ -3277,13 +3282,17 @@ unicode = 01E2;
 },
 {
 glyphname = B;
-lastChange = "2023-10-13 21:52:23 +0000";
+lastChange = "2023-10-27 18:57:57 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
 position = "{524, -20}";
+},
+{
+name = center;
+position = "{522, 204}";
 },
 {
 name = top;
@@ -4279,18 +4288,186 @@ unicode = 1E06;
 {
 color = 3;
 glyphname = Bstroke;
-lastChange = "2023-10-09 16:35:37 +0000";
+lastChange = "2023-10-27 18:59:36 +0000";
 layers = (
 {
+background = {
+anchors = (
+{
+name = bottom;
+position = "{524, -20}";
+},
+{
+name = center;
+position = "{521, 212}";
+},
+{
+name = top;
+position = "{931, 790}";
+}
+);
+paths = (
+{
+closed = 1;
+nodes = (
+"253 -39 OFFCURVE",
+"325 -14 OFFCURVE",
+"389 34 CURVE",
+"491 -13 OFFCURVE",
+"578 -39 OFFCURVE",
+"702 -39 CURVE SMOOTH",
+"859 -39 OFFCURVE",
+"1043 53 OFFCURVE",
+"1043 194 CURVE SMOOTH",
+"1043 210 OFFCURVE",
+"1041 226 OFFCURVE",
+"1036 243 CURVE SMOOTH",
+"1013 318 OFFCURVE",
+"911 365 OFFCURVE",
+"846 386 CURVE",
+"974 391 OFFCURVE",
+"1093 459 OFFCURVE",
+"1093 561 CURVE SMOOTH",
+"1093 643 OFFCURVE",
+"1000 705 OFFCURVE",
+"864 740 CURVE",
+"867 745 OFFCURVE",
+"880 759 OFFCURVE",
+"894 768 CURVE SMOOTH",
+"904 775 OFFCURVE",
+"909 781 OFFCURVE",
+"909 784 CURVE SMOOTH",
+"909 787 OFFCURVE",
+"907 788 OFFCURVE",
+"903 788 CURVE SMOOTH",
+"899 788 OFFCURVE",
+"892 787 OFFCURVE",
+"883 783 CURVE SMOOTH",
+"867 776 OFFCURVE",
+"846 764 OFFCURVE",
+"828 748 CURVE",
+"762 762 OFFCURVE",
+"687 770 OFFCURVE",
+"610 770 CURVE SMOOTH",
+"401 770 OFFCURVE",
+"82 689 OFFCURVE",
+"82 488 CURVE SMOOTH",
+"82 387 OFFCURVE",
+"167 336 OFFCURVE",
+"238 336 CURVE SMOOTH",
+"313 336 OFFCURVE",
+"401 387 OFFCURVE",
+"401 469 CURVE SMOOTH",
+"401 470 LINE SMOOTH",
+"401 481 OFFCURVE",
+"396 485 OFFCURVE",
+"391 485 CURVE SMOOTH",
+"386 485 OFFCURVE",
+"381 481 OFFCURVE",
+"381 478 CURVE SMOOTH",
+"381 436 OFFCURVE",
+"333 362 OFFCURVE",
+"243 362 CURVE SMOOTH",
+"189 362 OFFCURVE",
+"128 390 OFFCURVE",
+"128 468 CURVE SMOOTH",
+"128 657 OFFCURVE",
+"447 739 OFFCURVE",
+"644 739 CURVE SMOOTH",
+"701 739 OFFCURVE",
+"755 734 OFFCURVE",
+"804 726 CURVE",
+"746 661 LINE SMOOTH",
+"575 470 OFFCURVE",
+"503 201 OFFCURVE",
+"369 72 CURVE",
+"290 111 OFFCURVE",
+"225 162 OFFCURVE",
+"137 162 CURVE SMOOTH",
+"57 162 OFFCURVE",
+"11 113 OFFCURVE",
+"11 64 CURVE SMOOTH",
+"11 -20 OFFCURVE",
+"119 -39 OFFCURVE",
+"178 -39 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"99 -5 OFFCURVE",
+"70 32 OFFCURVE",
+"70 67 CURVE SMOOTH",
+"70 100 OFFCURVE",
+"95 131 OFFCURVE",
+"145 131 CURVE SMOOTH",
+"201 131 OFFCURVE",
+"298 76 OFFCURVE",
+"347 52 CURVE",
+"293 12 OFFCURVE",
+"232 -12 OFFCURVE",
+"158 -8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"590 -10 OFFCURVE",
+"491 18 OFFCURVE",
+"411 52 CURVE",
+"427 66 OFFCURVE",
+"433 71 OFFCURVE",
+"449 89 CURVE SMOOTH",
+"586 237 OFFCURVE",
+"718 531 OFFCURVE",
+"852 716 CURVE",
+"928 699 OFFCURVE",
+"1029 662 OFFCURVE",
+"1029 582 CURVE SMOOTH",
+"1029 500 OFFCURVE",
+"924 414 OFFCURVE",
+"839 414 CURVE SMOOTH",
+"797 414 OFFCURVE",
+"759 420 OFFCURVE",
+"732 420 CURVE SMOOTH",
+"709 420 OFFCURVE",
+"694 415 OFFCURVE",
+"694 399 CURVE",
+"704 378 OFFCURVE",
+"803 364 OFFCURVE",
+"881 326 CURVE SMOOTH",
+"941 297 OFFCURVE",
+"968 250 OFFCURVE",
+"968 203 CURVE SMOOTH",
+"968 103 OFFCURVE",
+"852 -10 OFFCURVE",
+"688 -10 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"650 204 LINE SMOOTH",
+"677 204 OFFCURVE",
+"677 234 OFFCURVE",
+"677 239 CURVE",
+"405 239 LINE",
+"383 239 OFFCURVE",
+"377 212 OFFCURVE",
+"377 204 CURVE"
+);
+}
+);
+};
 color = 9;
 components = (
 {
 name = B;
 },
 {
-alignment = -1;
+anchor = center;
 name = strokemedcomb;
-transform = "{0.85, 0, 0, 1, 356, 21}";
+transform = "{1, 0, 0, 1, 323, 20}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
@@ -5715,185 +5892,10 @@ unicode = 0044;
 {
 color = 9;
 glyphname = Eth;
-lastChange = "2023-09-30 02:48:26 +0000";
+lastChange = "2023-10-27 18:59:44 +0000";
 layers = (
 {
 background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"249 249 OFFCURVE",
-"316 274 OFFCURVE",
-"377 324 CURVE",
-"441 296 OFFCURVE",
-"519 268 OFFCURVE",
-"650 252 CURVE SMOOTH",
-"665 250 OFFCURVE",
-"681 249 OFFCURVE",
-"696 249 CURVE SMOOTH",
-"860 249 OFFCURVE",
-"1012 356 OFFCURVE",
-"1028 528 CURVE SMOOTH",
-"1030 546 OFFCURVE",
-"1031 563 OFFCURVE",
-"1031 581 CURVE SMOOTH",
-"1031 746 OFFCURVE",
-"946 878 OFFCURVE",
-"823 959 CURVE",
-"839 984 OFFCURVE",
-"855 1008 OFFCURVE",
-"870 1028 CURVE SMOOTH",
-"872 1032 OFFCURVE",
-"886 1047 OFFCURVE",
-"899 1056 CURVE SMOOTH",
-"910 1063 OFFCURVE",
-"915 1069 OFFCURVE",
-"915 1073 CURVE SMOOTH",
-"915 1075 OFFCURVE",
-"913 1076 OFFCURVE",
-"909 1076 CURVE SMOOTH",
-"904 1076 OFFCURVE",
-"898 1075 OFFCURVE",
-"888 1071 CURVE SMOOTH",
-"871 1064 OFFCURVE",
-"821 1029 OFFCURVE",
-"804 1014 CURVE",
-"779 985 LINE",
-"698 1027 OFFCURVE",
-"605 1051 OFFCURVE",
-"510 1051 CURVE SMOOTH",
-"482 1051 OFFCURVE",
-"453 1049 OFFCURVE",
-"425 1045 CURVE SMOOTH",
-"172 1008 OFFCURVE",
-"72 886 OFFCURVE",
-"72 781 CURVE SMOOTH",
-"72 715 OFFCURVE",
-"112 656 OFFCURVE",
-"181 632 CURVE SMOOTH",
-"197 627 OFFCURVE",
-"214 624 OFFCURVE",
-"231 624 CURVE SMOOTH",
-"306 624 OFFCURVE",
-"382 676 OFFCURVE",
-"393 757 CURVE SMOOTH",
-"395 768 OFFCURVE",
-"389 773 OFFCURVE",
-"382 773 CURVE SMOOTH",
-"378 773 OFFCURVE",
-"373 770 OFFCURVE",
-"373 766 CURVE SMOOTH",
-"371 735 OFFCURVE",
-"326 649 OFFCURVE",
-"239 649 CURVE SMOOTH",
-"225 649 OFFCURVE",
-"209 652 OFFCURVE",
-"192 657 CURVE SMOOTH",
-"143 672 OFFCURVE",
-"119 709 OFFCURVE",
-"119 754 CURVE SMOOTH",
-"119 845 OFFCURVE",
-"218 970 OFFCURVE",
-"405 1010 CURVE SMOOTH",
-"439 1017 OFFCURVE",
-"473 1021 OFFCURVE",
-"507 1021 CURVE SMOOTH",
-"595 1021 OFFCURVE",
-"680 997 OFFCURVE",
-"750 954 CURVE",
-"594 779 OFFCURVE",
-"517 503 OFFCURVE",
-"369 360 CURVE",
-"336 377 OFFCURVE",
-"255 421 OFFCURVE",
-"216 434 CURVE SMOOTH",
-"184 445 OFFCURVE",
-"155 450 OFFCURVE",
-"129 450 CURVE SMOOTH",
-"49 450 OFFCURVE",
-"4 402 OFFCURVE",
-"4 353 CURVE SMOOTH",
-"4 308 OFFCURVE",
-"42 262 OFFCURVE",
-"126 252 CURVE SMOOTH",
-"142 250 OFFCURVE",
-"158 249 OFFCURVE",
-"173 249 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"96 282 OFFCURVE",
-"69 318 OFFCURVE",
-"69 352 CURVE SMOOTH",
-"69 385 OFFCURVE",
-"95 418 OFFCURVE",
-"144 418 CURVE SMOOTH",
-"158 418 OFFCURVE",
-"174 415 OFFCURVE",
-"192 409 CURVE SMOOTH",
-"252 387 OFFCURVE",
-"295 363 OFFCURVE",
-"343 340 CURVE",
-"288 300 OFFCURVE",
-"224 276 OFFCURVE",
-"151 280 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"493 567 OFFCURVE",
-"565 578 OFFCURVE",
-"658 578 CURVE SMOOTH",
-"670 578 OFFCURVE",
-"676 583 OFFCURVE",
-"676 588 CURVE SMOOTH",
-"676 595 OFFCURVE",
-"667 603 OFFCURVE",
-"654 604 CURVE SMOOTH",
-"537 607 OFFCURVE",
-"476 608 OFFCURVE",
-"433 608 CURVE SMOOTH",
-"421 608 OFFCURVE",
-"417 599 OFFCURVE",
-"417 589 CURVE SMOOTH",
-"417 575 OFFCURVE",
-"425 558 OFFCURVE",
-"433 560 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"669 279 OFFCURVE",
-"659 279 OFFCURVE",
-"649 280 CURVE SMOOTH",
-"541 289 OFFCURVE",
-"464 314 OFFCURVE",
-"401 342 CURVE",
-"414 352 OFFCURVE",
-"426 364 OFFCURVE",
-"440 378 CURVE SMOOTH",
-"549 497 OFFCURVE",
-"681 737 OFFCURVE",
-"799 922 CURVE",
-"900 841 OFFCURVE",
-"968 718 OFFCURVE",
-"968 573 CURVE SMOOTH",
-"968 558 OFFCURVE",
-"967 541 OFFCURVE",
-"965 525 CURVE SMOOTH",
-"951 395 OFFCURVE",
-"838 279 OFFCURVE",
-"679 279 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
 paths = (
 {
 closed = 1;
@@ -6067,6 +6069,17 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = D;
+},
+{
+name = strokeshortcomb;
+transform = "{1, 0, 0, 1, 677, 703}";
+}
+);
+layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
 userData = {
 com.hugojourdan.ColorFlow = {
 "0" = 0;
@@ -6084,7 +6097,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_9 = "9";
 };
-width = 1032;
+width = 1020;
 }
 );
 note = Eth;
@@ -6214,7 +6227,7 @@ unicode = 1E12;
 {
 color = 9;
 glyphname = Dcroat;
-lastChange = "2023-09-30 02:48:26 +0000";
+lastChange = "2023-10-27 18:54:34 +0000";
 layers = (
 {
 background = {
@@ -6247,7 +6260,7 @@ com.hugojourdan.ColorFlow = {
 };
 com.hugojourdan.ColorFlow_Color_9 = "9";
 };
-width = 1032;
+width = 1020;
 }
 );
 note = Dcroat;
@@ -80076,7 +80089,7 @@ unicode = 01B6;
 },
 {
 glyphname = b.alt;
-lastChange = "2023-10-10 23:26:42 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -80178,13 +80191,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 354;
 }
 );
 },
 {
 glyphname = g.alt;
-lastChange = "2023-10-23 21:14:28 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -80420,13 +80449,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 379;
 }
 );
 },
 {
 glyphname = p.alt;
-lastChange = "2023-10-10 21:38:24 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -80540,6 +80585,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 354;
 }
 );
@@ -80924,7 +80985,7 @@ note = t.001;
 },
 {
 glyphname = b.init;
-lastChange = "2023-10-13 19:04:08 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 background = {
@@ -81085,13 +81146,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 311;
 }
 );
 },
 {
 glyphname = j.init;
-lastChange = "2023-10-13 19:18:35 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81201,13 +81278,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 171;
 }
 );
 },
 {
 glyphname = k.init;
-lastChange = "2023-10-13 19:18:40 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81313,13 +81406,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 353;
 }
 );
 },
 {
 glyphname = p.init;
-lastChange = "2023-10-13 19:11:06 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81407,6 +81516,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 330;
 }
 );
@@ -81644,7 +81769,7 @@ note = r.001;
 },
 {
 glyphname = u.init;
-lastChange = "2023-10-13 19:13:14 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81729,13 +81854,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 356;
 }
 );
 },
 {
 glyphname = v.init;
-lastChange = "2023-10-13 19:14:28 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81825,13 +81966,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 302;
 }
 );
 },
 {
 glyphname = w.init;
-lastChange = "2023-10-13 19:15:18 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -81953,13 +82110,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 495;
 }
 );
 },
 {
 glyphname = y.init;
-lastChange = "2023-10-13 19:16:25 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -82071,6 +82244,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 381;
 }
 );
@@ -82192,7 +82381,7 @@ width = 318;
 },
 {
 glyphname = b.ss01;
-lastChange = "2023-10-13 19:03:01 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -82287,13 +82476,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 311;
 }
 );
 },
 {
 glyphname = dtail.ss01;
-lastChange = "2023-10-12 19:45:31 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -82417,13 +82622,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 369;
 }
 );
 },
 {
 glyphname = eturned.ss01;
-lastChange = "2023-10-23 21:16:45 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -82485,6 +82706,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 333;
 }
 );
@@ -83722,7 +83959,7 @@ note = o;
 },
 {
 glyphname = oopen.ss01;
-lastChange = "2023-10-21 18:58:43 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -83776,6 +84013,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 331;
 }
 );
@@ -84105,7 +84358,7 @@ note = p.001;
 },
 {
 glyphname = qhooktail.ss01;
-lastChange = "2023-10-12 19:41:51 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
@@ -84222,13 +84475,29 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 346;
 }
 );
 },
 {
 glyphname = r.ss01;
-lastChange = "2023-10-10 21:35:31 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -84309,6 +84578,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 259;
 }
 );
@@ -84450,7 +84735,7 @@ width = 261;
 },
 {
 glyphname = rtail.ss01;
-lastChange = "2023-10-12 19:40:20 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -84616,6 +84901,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 259;
 }
 );
@@ -87381,7 +87682,7 @@ width = 285;
 },
 {
 glyphname = oopen.ss02;
-lastChange = "2023-10-21 18:58:48 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
@@ -87452,6 +87753,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 352;
 }
 );
@@ -92303,7 +92620,7 @@ leftMetricsKey = o;
 },
 {
 glyphname = q_u;
-lastChange = "2023-10-11 22:24:24 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -92483,6 +92800,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 713;
 }
 );
@@ -159059,7 +159392,7 @@ unicode = 0334;
 },
 {
 glyphname = strokeshortcomb;
-lastChange = "2023-10-09 17:10:04 +0000";
+lastChange = "2023-10-27 18:55:16 +0000";
 layers = (
 {
 anchors = (
@@ -159068,7 +159401,7 @@ name = _top;
 position = "{92.11, 97}";
 },
 {
-name = top;
+name = center;
 position = "{129.899, 184}";
 }
 );
@@ -163662,7 +163995,7 @@ unicode = A7B9;
 },
 {
 glyphname = uniA7DA;
-lastChange = "2023-10-21 18:42:51 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -163759,6 +164092,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 693;
 }
 );
@@ -163766,7 +164115,7 @@ unicode = A7DA;
 },
 {
 glyphname = uniA7DB;
-lastChange = "2023-10-21 18:42:11 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 anchors = (
@@ -163879,6 +164228,22 @@ nodes = (
 );
 }
 );
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 593;
 }
 );
@@ -163886,7 +164251,7 @@ unicode = A7DB;
 },
 {
 glyphname = uniA7DC;
-lastChange = "2023-10-21 18:42:51 +0000";
+lastChange = "2023-10-27 18:08:17 +0000";
 layers = (
 {
 components = (
@@ -163899,6 +164264,22 @@ transform = "{0.96126, 0.27564, -0.27564, 0.96126, 342, 332}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
+userData = {
+com.hugojourdan.ColorFlow = {
+"0" = 0;
+"1" = 0;
+"10" = 0;
+"11" = 0;
+"2" = 0;
+"3" = 0;
+"4" = 0;
+"5" = 0;
+"6" = 0;
+"7" = 0;
+"8" = 0;
+"9" = 0;
+};
+};
 width = 693;
 }
 );
@@ -169423,17 +169804,17 @@ width = 214;
 },
 {
 glyphname = strokemedcomb;
-lastChange = "2023-10-13 21:14:28 +0000";
+lastChange = "2023-10-27 18:59:36 +0000";
 layers = (
 {
 anchors = (
 {
-name = _top;
-position = "{171, 97}";
+name = _center;
+position = "{199, 184}";
 },
 {
-name = top;
-position = "{208, 184}";
+name = _top;
+position = "{171, 97}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
