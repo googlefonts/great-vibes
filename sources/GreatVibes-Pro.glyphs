@@ -5,7 +5,7 @@ DisplayStrings = (
 "/Ezh",
 "/Chook",
 HOnot,
-"nn/Placeholder no/Placeholder oo/Placeholder a/Placeholder e\012ABC/space DEFGH/space IJK/space L/space MNOPQRSTUV\012W/Wacute/Wcircumflex/Wdieresis/Wdotaccent/Wdotbelow/Wgrave XYZ"
+"nn/Placeholder no/Placeholder oo/Placeholder a/Placeholder e\012ABC/space DEFGH/space IJK\012L/Lacute/Lbar/Lcaron/Lcircumflexbelow/Lcommaaccent/periodcentered.loclCAT.case/Ldot/Ldotbelow/Ldotbelowmacron/Lmacronbelow/Lcommaaccent.loclMAH \012/space MNOPQRSTUV\012W/Wacute/Wcircumflex/Wdieresis/Wdotaccent/Wdotbelow/Wgrave XYZ"
 );
 classes = (
 {
@@ -17427,7 +17427,7 @@ unicode = A740;
 },
 {
 glyphname = L;
-lastChange = "2023-11-06 22:39:06 +0000";
+lastChange = "2023-11-06 23:50:50 +0000";
 layers = (
 {
 anchors = (
@@ -18596,7 +18596,7 @@ unicode = 013B;
 },
 {
 glyphname = Ldot;
-lastChange = "2023-11-06 20:51:52 +0000";
+lastChange = "2023-11-06 23:51:36 +0000";
 layers = (
 {
 background = {
@@ -18715,9 +18715,8 @@ components = (
 name = L;
 },
 {
-alignment = -1;
-name = periodcentered.loclCAT;
-transform = "{1, 0, 0, 1, 759, 0}";
+name = periodcentered.loclCAT.case;
+transform = "{1, 0, 0, 1, 607, -33}";
 }
 );
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
@@ -165256,26 +165255,32 @@ width = 116;
 {
 color = 0;
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2023-11-06 18:32:52 +0000";
+lastChange = "2023-11-06 23:51:36 +0000";
 layers = (
 {
+anchors = (
+{
+name = _center;
+position = "{61, 262}";
+}
+);
 layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
 paths = (
 {
 closed = 1;
 nodes = (
-"75 376 OFFCURVE",
-"96 394 OFFCURVE",
-"96 419 CURVE SMOOTH",
-"96 437 OFFCURVE",
-"83 449 OFFCURVE",
-"64 449 CURVE SMOOTH",
-"42 449 OFFCURVE",
-"20 430 OFFCURVE",
-"20 406 CURVE SMOOTH",
-"20 388 OFFCURVE",
-"33 376 OFFCURVE",
-"51 376 CURVE SMOOTH"
+"77 226 OFFCURVE",
+"98 244 OFFCURVE",
+"98 269 CURVE SMOOTH",
+"98 287 OFFCURVE",
+"85 299 OFFCURVE",
+"66 299 CURVE SMOOTH",
+"44 299 OFFCURVE",
+"22 280 OFFCURVE",
+"22 256 CURVE SMOOTH",
+"22 238 OFFCURVE",
+"35 226 OFFCURVE",
+"53 226 CURVE SMOOTH"
 );
 }
 );
