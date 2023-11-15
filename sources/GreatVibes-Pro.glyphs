@@ -1,7 +1,8 @@
 {
 .appVersion = "3175";
 DisplayStrings = (
-"/Eopen/gravecomb/oopen/tildebelowcomb/gravecomb"
+"/Eopen/gravecomb/oopen/tildebelowcomb/gravecomb",
+"/macroncomb_acutecomb/acutemacroncomb/macronacutecomb/gravemacroncomb/macrongravecomb"
 );
 classes = (
 {
@@ -884,7 +885,7 @@ notes = "Name: Alternate Swash Forms";
 {
 code = "lookup ccmp_DFLT_1 {
 	lookupflag 0;
-	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub acutecomb macroncomb by acutemacroncomb;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
 	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
@@ -893,7 +894,7 @@ code = "lookup ccmp_DFLT_1 {
 	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub gravecomb macroncomb by macrongravecomb;
 	sub macroncomb acutecomb by macroncomb_acutecomb;
 	sub macroncomb gravecomb by macroncomb_gravecomb;
 } ccmp_DFLT_1;
@@ -212281,5 +212282,5 @@ GSOffsetVertical = 10;
 };
 };
 versionMajor = 1;
-versionMinor = 35;
+versionMinor = 38;
 }
