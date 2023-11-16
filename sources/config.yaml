@@ -2,4 +2,4 @@ sources:
   - GreatVibes-Pro.glyphs
 familyName: "Great Vibes"
 buildVariable: false
-# autohintTTF: false
+# buildOTF: false
