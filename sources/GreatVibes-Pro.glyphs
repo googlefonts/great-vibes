@@ -399,6 +399,14 @@ language NSM;
 lookup locl_latn_3 {
 	sub Eng by Eng.loclNSM;
 } locl_latn_3;
+language ISM;
+lookup locl_latn_3;
+language SKS;
+lookup locl_latn_3;
+language LSM;
+lookup locl_latn_3;
+language LSM;
+lookup locl_latn_3;
 
 script latn;
 language CAT;
