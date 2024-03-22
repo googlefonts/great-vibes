@@ -282,7 +282,7 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 },
 {
 name = licenseURL;
-value = "https://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 name = vendorID;
@@ -185609,5 +185609,5 @@ GSOffsetVertical = 10;
 };
 };
 versionMajor = 1;
-versionMinor = 48;
+versionMinor = 100;
 }
