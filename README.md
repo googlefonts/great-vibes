@@ -1,39 +1,26 @@
+# Great Vibes
+
+![Sample Image](Documentation/image1.png)
+
 Great Vibes is a beautifully flowing script with casual uppercase forms combined with more formal lowercase letters.  
 
-It has over 400 glyphs, with smooth connecting ligatures and alternate characters.
+It has over 2000 glyphs, with smooth connecting ligatures and alternate characters.
 
-Great Vibes comes with Latin Character sets including Western, Central, and Vietnamese language support.
+In March 2024, Great Vibes was updated to provide extended language support, including Sub-Saharan Latin and Cyrillic.
 
-## Building the Fonts
+![Sample Image](Documentation/image2.png)
 
-The font is built using fontmake and gftools post processing script. Tools are all python based, so it must be previously installed.
+## Building the font
 
-To install all the Python tools into a virtualenv, do the following:
+Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
 
-From terminal:
+If you want to build fonts manually on your own computer:
 
-```
+* `make build` will produce font files.
+* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
+* `make proof` will generate HTML proof files.
 
-cd your/local/project/directory
+## Changelog
 
-#once in the project folder create a virtual environment. 
-This step has to be done just once, the first time:
-
-python3 -m venv venv
-
-#activate the virtual environment every time you are working in the project
-
-source venv/bin/activate
-
-#install the required dependencies
-
-pip install -r requirements.txt
-
-```
-
-Then run the this command:
-
-```
-cd sources
-gftools builder config.yml
-```
+**March 2024. Version 1.100**
+- SIGNIFICANT Latin SSA and Cyrillic support added.
