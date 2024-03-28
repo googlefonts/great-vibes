@@ -5,7 +5,8 @@ DisplayStrings = (
 "/de-cy.ALT/de-cy.alt1/de-cy.loclBGR/de-cy.loclSRB/de-cy.ALT.alt0/de-cy.loclBGR.alt0/de-cy.loclSRB.alt0/de-cy.ALT.alt1/de-cy.loclBGR.alt1/de-cy.loclSRB.alt1/de-cy.ALT.alt0.alt1/de-cy.loclBGR.alt0.alt1/de-cy.loclSRB.alt0.alt1",
 "/de-cy",
 "/El-cy",
-"/Lambda"
+"/Lambda",
+"/dottedCircle"
 );
 classes = (
 {
@@ -158686,39 +158687,6 @@ R = hyphen;
 };
 },
 {
-glyphname = softhyphen;
-lastChange = "2024-03-16 00:22:22 +0000";
-layers = (
-{
-layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 0;
-}
-);
-unicode = 00AD;
-userData = {
-KernOnSpecialSpacing = {
-L = hyphen;
-R = hyphen;
-};
-};
-},
-{
 color = 3;
 glyphname = endash;
 lastChange = "2024-03-16 00:22:22 +0000";
@@ -182027,9 +181995,6 @@ underscore = -178;
 };
 six.osf = {
 zero.osf = 20;
-};
-softhyphen = {
-"@MMK_R_el-cy" = -18;
 };
 "softsign-cy.alt10" = {
 "ge-cy" = 10;
