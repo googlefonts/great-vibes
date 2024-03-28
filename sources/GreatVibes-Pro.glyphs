@@ -6,7 +6,7 @@ DisplayStrings = (
 "/de-cy",
 "/El-cy",
 "/Lambda",
-"/dottedCircle"
+""
 );
 classes = (
 {
@@ -51,7 +51,7 @@ code = "A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Z
 name = AllCyryllic;
 },
 {
-code = "mediumspace-math CR .notdef emquad emspace enquad enspace figurespace fourperemspace hairspace narrownbspace punctuationspace sixperemspace space nbspace thinspace threeperemspace zerowidthspace leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen softhyphen endash emdash horizontalbar hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle 
+code = "mediumspace-math CR .notdef emquad emspace enquad enspace figurespace fourperemspace hairspace narrownbspace punctuationspace sixperemspace space nbspace thinspace threeperemspace zerowidthspace leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash horizontalbar hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle 
 ";
 name = Separators_and_Punctations;
 },
@@ -143,7 +143,7 @@ code = "zhe-cy.alt0.alt06 el-cy.alt0.alt06 em-cy.alt0.alt06 lje-cy.alt05.alt06 y
 name = "CY_LeftSideLeg_group-shortLeg-Alt";
 },
 {
-code = "mediumspace-math CR .notdef emquad emspace enquad enspace figurespace fourperemspace hairspace narrownbspace punctuationspace sixperemspace space nbspace thinspace threeperemspace zerowidthspace leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen softhyphen endash emdash horizontalbar hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle 
+code = "mediumspace-math CR .notdef emquad emspace enquad enspace figurespace fourperemspace hairspace narrownbspace punctuationspace sixperemspace space nbspace thinspace threeperemspace zerowidthspace leftanglebracket-math rightanglebracket-math period comma colon semicolon ellipsis exclam exclamdown question questiondown periodcentered bullet asterisk numbersign slash backslash periodcentered.loclCAT periodcentered.loclCAT.case hyphen endash emdash horizontalbar hyphentwo nonbreakinghyphen underscore parenleft parenright braceleft braceright bracketleft bracketright quotesinglbase quotedblbase quotedblleft quotedblright quoteleft quoteright guillemetleft guillemetright guilsinglleft guilsinglright quotedbl quotesingle 
 ";
 name = SeparatorsandPunctations;
 },
@@ -169250,252 +169250,6 @@ L = "spaced-off";
 };
 },
 {
-color = 4;
-glyphname = dottedCircle;
-lastChange = "2024-03-16 00:22:22 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-position = "{412, 0}";
-},
-{
-name = top;
-position = "{412, 830}";
-}
-);
-layerId = "61E7180A-0B32-4047-B910-001D8BB62225";
-paths = (
-{
-closed = 1;
-nodes = (
-"442 671 OFFCURVE",
-"463 692 OFFCURVE",
-"463 722 CURVE SMOOTH",
-"463 752 OFFCURVE",
-"442 773 OFFCURVE",
-"412 773 CURVE SMOOTH",
-"382 773 OFFCURVE",
-"361 752 OFFCURVE",
-"361 722 CURVE SMOOTH",
-"361 692 OFFCURVE",
-"382 671 OFFCURVE",
-"412 671 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"595 630 OFFCURVE",
-"617 651 OFFCURVE",
-"617 681 CURVE SMOOTH",
-"617 711 OFFCURVE",
-"595 732 OFFCURVE",
-"566 732 CURVE SMOOTH",
-"536 732 OFFCURVE",
-"514 711 OFFCURVE",
-"514 681 CURVE SMOOTH",
-"514 651 OFFCURVE",
-"536 630 OFFCURVE",
-"566 630 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"708 517 OFFCURVE",
-"729 539 OFFCURVE",
-"729 569 CURVE SMOOTH",
-"729 598 OFFCURVE",
-"708 620 OFFCURVE",
-"678 620 CURVE SMOOTH",
-"648 620 OFFCURVE",
-"627 598 OFFCURVE",
-"627 569 CURVE SMOOTH",
-"627 539 OFFCURVE",
-"648 517 OFFCURVE",
-"678 517 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"749 364 OFFCURVE",
-"770 385 OFFCURVE",
-"770 415 CURVE SMOOTH",
-"770 445 OFFCURVE",
-"749 466 OFFCURVE",
-"719 466 CURVE SMOOTH",
-"689 466 OFFCURVE",
-"668 445 OFFCURVE",
-"668 415 CURVE SMOOTH",
-"668 385 OFFCURVE",
-"689 364 OFFCURVE",
-"719 364 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"708 210 OFFCURVE",
-"729 232 OFFCURVE",
-"729 261 CURVE SMOOTH",
-"729 291 OFFCURVE",
-"708 313 OFFCURVE",
-"678 313 CURVE SMOOTH",
-"648 313 OFFCURVE",
-"627 291 OFFCURVE",
-"627 261 CURVE SMOOTH",
-"627 232 OFFCURVE",
-"648 210 OFFCURVE",
-"678 210 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"595 98 OFFCURVE",
-"617 119 OFFCURVE",
-"617 149 CURVE SMOOTH",
-"617 179 OFFCURVE",
-"595 200 OFFCURVE",
-"566 200 CURVE SMOOTH",
-"536 200 OFFCURVE",
-"514 179 OFFCURVE",
-"514 149 CURVE SMOOTH",
-"514 119 OFFCURVE",
-"536 98 OFFCURVE",
-"566 98 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"442 57 OFFCURVE",
-"463 78 OFFCURVE",
-"463 108 CURVE SMOOTH",
-"463 138 OFFCURVE",
-"442 159 OFFCURVE",
-"412 159 CURVE SMOOTH",
-"382 159 OFFCURVE",
-"361 138 OFFCURVE",
-"361 108 CURVE SMOOTH",
-"361 78 OFFCURVE",
-"382 57 OFFCURVE",
-"412 57 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"288 98 OFFCURVE",
-"310 119 OFFCURVE",
-"310 149 CURVE SMOOTH",
-"310 179 OFFCURVE",
-"288 200 OFFCURVE",
-"258 200 CURVE SMOOTH",
-"229 200 OFFCURVE",
-"207 179 OFFCURVE",
-"207 149 CURVE SMOOTH",
-"207 119 OFFCURVE",
-"229 98 OFFCURVE",
-"258 98 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"176 210 OFFCURVE",
-"197 232 OFFCURVE",
-"197 261 CURVE SMOOTH",
-"197 291 OFFCURVE",
-"176 313 OFFCURVE",
-"146 313 CURVE SMOOTH",
-"116 313 OFFCURVE",
-"95 291 OFFCURVE",
-"95 261 CURVE SMOOTH",
-"95 232 OFFCURVE",
-"116 210 OFFCURVE",
-"146 210 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"135 364 OFFCURVE",
-"156 385 OFFCURVE",
-"156 415 CURVE SMOOTH",
-"156 445 OFFCURVE",
-"135 466 OFFCURVE",
-"105 466 CURVE SMOOTH",
-"75 466 OFFCURVE",
-"54 445 OFFCURVE",
-"54 415 CURVE SMOOTH",
-"54 385 OFFCURVE",
-"75 364 OFFCURVE",
-"105 364 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"176 517 OFFCURVE",
-"197 539 OFFCURVE",
-"197 569 CURVE SMOOTH",
-"197 598 OFFCURVE",
-"176 620 OFFCURVE",
-"146 620 CURVE SMOOTH",
-"116 620 OFFCURVE",
-"95 598 OFFCURVE",
-"95 569 CURVE SMOOTH",
-"95 539 OFFCURVE",
-"116 517 OFFCURVE",
-"146 517 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"288 630 OFFCURVE",
-"310 651 OFFCURVE",
-"310 681 CURVE SMOOTH",
-"310 711 OFFCURVE",
-"288 732 OFFCURVE",
-"258 732 CURVE SMOOTH",
-"229 732 OFFCURVE",
-"207 711 OFFCURVE",
-"207 681 CURVE SMOOTH",
-"207 651 OFFCURVE",
-"229 630 OFFCURVE",
-"258 630 CURVE SMOOTH"
-);
-}
-);
-userData = {
-com.hugojourdan.ColorFlow = {
-"0" = 0;
-"1" = 0;
-"10" = 0;
-"11" = 0;
-"2" = 0;
-"3" = 0;
-"4" = 0;
-"5" = 0;
-"6" = 0;
-"7" = 0;
-"8" = 0;
-"9" = 0;
-};
-};
-width = 792;
-}
-);
-leftMetricsKey = plus;
-rightMetricsKey = plus;
-unicode = 25CC;
-},
-{
 glyphname = lozenge;
 lastChange = "2024-03-16 00:22:22 +0000";
 layers = (
@@ -185574,5 +185328,5 @@ GSOffsetVertical = 10;
 };
 };
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 103;
 }
